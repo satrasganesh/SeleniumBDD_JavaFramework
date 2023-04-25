@@ -34,7 +34,7 @@ Content:
 - IDE in case of review and edit the code.
 
 **Execution Guide:**
-- Download framework from the repository.
+- Download framework (BuggyTest and Run.bat) from the repository and store it in one folder in your system.
 - Double click on Run.bat file, execution will start automatically.
 - Report URL will be printed on the running screen after execution copy the same and paste in the browser to view the final exection report.
 
