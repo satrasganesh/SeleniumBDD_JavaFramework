@@ -37,4 +37,4 @@ Content:
 - Download framework (BuggyTest and Run.bat) from the repository and store it in one folder in your system.
 - Double click on Run.bat file, execution will start automatically.
 - Report URL will be printed on the running screen after execution copy the same and paste in the browser to view the final exection report.
-
+- To run separate scenarios (Do change the tag in .feature file which is like @smoketest, put it in the TestRunner.java file)
